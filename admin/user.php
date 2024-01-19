@@ -17,7 +17,7 @@
             <th>Giới thiệu</th>
             <th>Quyền Hạn</th>
             <th colspan="2">
-            <a class="btn btn-success" href="./user_them.php">Thêm Mới</a>
+            <a class="btn btn-success" href="?page=user_them">Thêm Mới</a>
             </th>
         </tr>
     </thead>

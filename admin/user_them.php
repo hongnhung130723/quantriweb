@@ -55,11 +55,12 @@ if (isset($_POST['username']) && $_POST['username']) {
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <div class="container">
-      <?php require_once "menu.php"; ?>
+      
+<?php require_once "menu.php"; ?>
 <div class="container form col-6 m-auto border border-primary p-4"
     style="transform:scale(0.9); background:#fff ; border-radius:8px">
 
-    <h2>ĐĂNG KÝ THÀNH VIÊN</h2>
+    <h2 class="text-center my-4" >THÊM NGƯỜI DÙNG</h2>
     <form action="" method="post" id="sign" class="" enctype="multipart/form-data">
         <div class="mb-3">
             <label>Tên Đăng Nhập</label>

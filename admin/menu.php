@@ -8,9 +8,9 @@
     <li class="nav-item">
     <a class="nav-link" <?php if($page=='tin') echo 'active'  ?>  data-toggle="tab" href="index.php?page=tin">Quản lý tin tức </a>
     </li>
-    <li class="nav-item">
+    <!-- <li class="nav-item">
     <a class="nav-link" <?php if($page=='user_them') echo 'active'  ?>  data-toggle="tab" href="index.php?page=user_them">Thêm người dùng </a>
-    </li>
+    </li> -->
     <li class="nav-item">
     <a class="nav-link" <?php if($page=='user') echo 'active'  ?>  data-toggle="tab" href="index.php?page=user">Danh sách người dùng </a>
     </li>
