@@ -11,8 +11,8 @@
             <th style="width:100px">Hình Ảnh </th>
             <th>Tên người dùng</th>
             <th>Email</th>
-            <th>Mật Khẩu</th>
             <th>Giới Tính</th>
+            <th>Sở Thích</th>
             <th>Nghề Nghiệp</th>
             <th>Sở Thích</th>
             <th>Quyền Hạn</th>
