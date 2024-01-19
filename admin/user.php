@@ -14,10 +14,10 @@
             <th>Giới Tính</th>
             <th>Sở Thích</th>
             <th>Nghề Nghiệp</th>
-            <th>Sở Thích</th>
+            <th>Giới thiệu</th>
             <th>Quyền Hạn</th>
             <th colspan="2">
-            <a class="btn btn-success" href="./user_them_sua.php">Thêm Mới</a>
+            <a class="btn btn-success" href="../dangky.php">Thêm Mới</a>
             </th>
         </tr>
     </thead>
